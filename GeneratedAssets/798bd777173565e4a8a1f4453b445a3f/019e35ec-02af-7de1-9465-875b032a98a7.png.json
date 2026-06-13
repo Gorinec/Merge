@@ -1,0 +1,28 @@
+{
+    "asset": "798bd777173565e4a8a1f4453b445a3f",
+    "fileName": "019e35ec-02af-7de1-9465-875b032a98a7.png",
+    "prompt": "Cozy stylized cartoon hand sprite, soft textures, warm lighting, open palm pose, clean outline, transparent background, game UI asset. Soft colors, similar to a plush toy style. High quality.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

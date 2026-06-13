@@ -1,0 +1,15 @@
+{
+    "asset": "d5538e3b15aa6474e95bca9c4ab4de8f",
+    "fileName": "019e35c3-0a8b-7df1-9565-baf205e1b431.wav",
+    "prompt": "Soft, magical pop sparkle, positive, cute, like two plush toy pieces connecting, soft chime mixed with a gentle fabric rustle, clean UI sound effect, no music.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 0.5,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

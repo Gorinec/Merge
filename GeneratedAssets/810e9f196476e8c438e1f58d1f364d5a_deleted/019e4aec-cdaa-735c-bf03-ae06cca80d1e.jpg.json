@@ -1,0 +1,38 @@
+{
+    "asset": "810e9f196476e8c438e1f58d1f364d5a",
+    "fileName": "019e4aec-cdaa-735c-bf03-ae06cca80d1e.jpg",
+    "prompt": "Vibrant cartoon button background plate, rounded rectangle, thick border, bold orange and yellow color palette, beveled edges, soft highlights, matching the style of the reference gear icon, clean game UI asset, empty center for text or icons",
+    "negativePrompt": "",
+    "model": "game-ui-essentials-2",
+    "modelName": "Game UI Essentials 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "978a179118a5a6c48803c5ff317a864c",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "bbe1cb20ac05b48498603f9575aa7fb8",
+    "fileName": "019e35d3-0258-7611-97d7-b61f5652c537.mp3",
+    "prompt": "Gentle, cozy instrumental lullaby music for a mobile game. Style: musical box with soft piano. Slow, calm, nostalgic, like a childhood memory. No vocals, no harsh sounds, no loud drums. Warm and enveloping atmosphere. Instrumental only.",
+    "negativePrompt": "",
+    "model": "google-lyria-3-pro",
+    "modelName": "Google Lyria 3 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 90.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

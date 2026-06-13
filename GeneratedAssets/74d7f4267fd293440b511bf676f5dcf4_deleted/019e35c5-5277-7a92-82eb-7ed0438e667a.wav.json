@@ -1,0 +1,15 @@
+{
+    "asset": "74d7f4267fd293440b511bf676f5dcf4",
+    "fileName": "019e35c5-5277-7a92-82eb-7ed0438e667a.wav",
+    "prompt": "Soft rustle of an old book page turning, warm and gentle sound, short 0.5 seconds duration, with a light magical sparkle at the end, like opening a children's toy album, clean UI sound effect, no music.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 0.5,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,38 @@
+{
+    "asset": "bba91287dc6320e4eaa4ca8e0b71d898",
+    "fileName": "019e4ae8-cd29-7617-95cf-0330dfa145e8.jpg",
+    "prompt": "Stylized cartoon icon of a crafting hammer for a game UI, vibrant yellow and orange colors, bold dark outlines, soft highlights, matching a casual merge game style, flat but with a beveled look, high quality",
+    "negativePrompt": "",
+    "model": "game-ui-essentials-2",
+    "modelName": "Game UI Essentials 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "978a179118a5a6c48803c5ff317a864c",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
